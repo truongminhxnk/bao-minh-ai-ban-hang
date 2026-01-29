@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.baominh.smartstore',
-  appName: 'Bảo Minh Smart AI',
+  appName: 'Bảo Minh Smart Greeter',
   webDir: 'dist',
   server: {
     androidScheme: 'https',

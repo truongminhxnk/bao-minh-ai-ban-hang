@@ -1,0 +1,11 @@
+
+
+[18:08:33]Kết nối ESP32/Cam & Audio OK.
+
+[18:08:32]✓ Hệ thống sẽ dùng thiết bị audio mặc định (nếu đang kết nối loa Bluetooth, âm thanh vẫn ra loa đó).
+
+[18:08:32]Đang dùng mic mặc định của thiết bị, loa mặc định của thiết bị
+
+[18:08:31]Đang tìm kiếm thiết bị Bluetooth...
+
+[18:08:31]Đang khởi tạo AI...
