@@ -1,0 +1,8 @@
+{
+  "name": "F4 Bảo Minh Smart AI Store Greeter",
+  "description": "An AI-powered assistant for retail stores that greets customers and provides consultations using real-time voice and vision capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
